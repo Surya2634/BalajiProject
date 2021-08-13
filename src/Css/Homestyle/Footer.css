@@ -1,0 +1,31 @@
+.Footer__Container{
+    background-color: #1B3D81;
+    width: 100%;
+    height: 270px;
+    bottom: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Footer__imgContainer>p{
+    color:white;
+}
+
+.Footer__aboutUs>ul>li,.Footer__aboutUs>h2{
+    color:white;
+    list-style: none;
+    padding:10px;
+}
+
+.Footer__Contact>ul>li,.Footer__Contact>h2,.Footer__Contact>img{
+    color:white;
+    list-style: none;
+    padding:13px;
+}
+
+.Footer__Icons{
+    display: flex;
+    justify-content: space-around;
+    color:white;
+}

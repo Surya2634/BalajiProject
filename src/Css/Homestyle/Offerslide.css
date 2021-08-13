@@ -1,0 +1,37 @@
+.Offerslide__offerBox{
+    position: relative;
+    width: 100%;
+    margin: 1% 0 0 0;
+    display: grid;
+    grid-template-columns: 65% 30%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Offerslide__offerBoximg{
+    width:200px;
+    height:300px;
+}
+.Offerslide__offerBoxtext{
+    padding:30px;
+}
+.Offerslide__offerBoxtext>text{
+    font-weight: bolder;
+    font-size:50px;
+    color: rgb(43, 52, 69);
+}
+.Offerslide__offerBoxtext{
+    display: flex;
+    flex-direction:column;
+    gap: 25px;
+}
+
+.Offerslide__offerBoxbtn{
+    width:8vw;
+    height:5vh;
+    border-radius:5px;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(233, 69, 96);
+    color: white;
+}

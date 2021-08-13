@@ -1,0 +1,38 @@
+.carddetails__wrapper{
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.carddetails__namenandnumber  > div {
+    margin-top: 5%;
+} 
+
+.carddetails__wrapper input{
+    padding: 1%;
+    width: 50%;
+}
+
+.carddetails__expandcvv input{
+padding: 1.8%;
+}
+
+
+
+.carddetails__expandcvv{
+    display: flex;
+    margin-top: 3%;
+    width: 100%;
+}
+.carddetails__exp{
+    width: 100%;
+}
+
+.carddetails__cvv{
+    width: 60%;
+}
+
+.carddetails__button {
+    width: 100%;
+    margin: 1%;
+    margin-top: 4%;
+}

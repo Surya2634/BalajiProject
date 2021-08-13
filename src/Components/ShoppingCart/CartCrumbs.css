@@ -1,0 +1,35 @@
+.cartcrumbs__wrapper{
+    display: flex;
+    width: 60%;
+    padding: 1%;
+}
+
+.cartcrumbs__pills{
+    border: 1px solid #FFE1E6;
+    background-color: #FFE1E6;
+    color: #E94560;
+    padding: 1%;
+    border-radius: 20px;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+
+.cartcrumbs__wrapper a {
+    text-decoration: none;
+    color: #E94560;
+}
+.cartcrumbs__line{
+    width: 8%; 
+    height: 3px;
+    align-self: center;
+    background-color: #FFE1E6;
+}
+.crumbSelected {
+    background-color: #E94560;
+    
+}
+.crumbSelected a{
+    color: white;
+    
+}

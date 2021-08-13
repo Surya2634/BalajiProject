@@ -1,0 +1,15 @@
+.HomeProducts__container{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    justify-content:space-around;
+    margin:0 0 0 6%;
+}
+
+.HomeProducts__allProducts{
+    background-color: whitesmoke;
+    display: flex;
+    padding:70px;
+    justify-content: flex-end;
+} 
+
+
